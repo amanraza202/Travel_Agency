@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background: url('https://c0.wallpaperflare.com/preview/552/184/880/travel-road-country-western.jpg') no-repeat center;
+    background-size: cover;
+    font-family: sans-serif;
+  }
